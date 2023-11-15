@@ -1,8 +1,6 @@
-.Logo {
-  background-color: #baaaaa96;
-  opacity: 0.65;
+body {
+  background-color: #FDD784;
 }
-
 .animation {
   animation: rotateImage 5s linear infinite; /* Rotation continue pendant 10 secondes */
 }
@@ -15,12 +13,4 @@
       transform: rotate(360deg);
   }
 }
-body {
-  background-color: #FDD784;
-  background-image: url(./img/back.jpg);
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-}
-
 #cb-cookie-banner { position: fixed; bottom: 0; left: 0; width: 100%; z-index: 999; border-radius: 0; display: none; }

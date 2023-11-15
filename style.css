@@ -1,7 +1,3 @@
-
-
-
-
 .Logo {
   background-color: #baaaaa96;
   opacity: 0.65;
@@ -20,6 +16,7 @@
   }
 }
 body {
+  background-color: #FDD784;
   background-image: url(./img/back.jpg);
   background-size: cover;
   background-repeat: no-repeat;

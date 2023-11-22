@@ -1,5 +1,6 @@
 body {
-  background-color: #FDD784;
+  background: -webkit-linear-gradient(0deg, #000000,#bab6b4);/* Chrome 10-25, Safari 5.1-6 */                          background: linear-gradient(0deg, #000000,#bab6b4);/* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */                                             
+background-repeat: no-repeat;
 }
 .animation {
   animation: rotateImage 5s linear infinite; /* Rotation continue pendant 10 secondes */
